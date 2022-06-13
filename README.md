@@ -1,3 +1,3 @@
 # CLA-P2
-Non e-lab questions for clap2
-project submitted by sobin johnson (reg no. RA2111003010137)
+**Non E-Lab questions for CLAP2** 
+~project submitted by Sobin Johnson (Reg no. RA2111003010137)
